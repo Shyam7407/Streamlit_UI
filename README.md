@@ -23,7 +23,6 @@ Your CSV file must include a column named website.
 Example:
 
 company_name	website
-OpenAI	www.openai.com
 Zoho	www.zoho.com
 
 📤 Output Columns
